@@ -59,7 +59,7 @@ tkinter
 4. View logs to check the application's activity.
 
 Example for Steam Game ID:
-`https://store.steampowered.com/app/<ins>582010</ins>/Monster_Hunter_World/`
+`https://store.steampowered.com/app/582010/Monster_Hunter_World/`
 
 ## Contributing
 
