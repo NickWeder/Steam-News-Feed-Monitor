@@ -59,7 +59,7 @@ tkinter
 4. View logs to check the application's activity.
 
 Example for Steam Game ID:
-https://store.steampowered.com/app/<ins>582010</ins>/Monster_Hunter_World/
+`https://store.steampowered.com/app/<ins>582010</ins>/Monster_Hunter_World/`
 
 ## Contributing
 
@@ -71,5 +71,5 @@ This project is licensed under the Apache 2.0 License.
 
 ## Author
 
-Nick Weder [https://github.com/NickWeder](https://github.com/NickWeder)
+[Nick Weder](https://github.com/NickWeder)
 
