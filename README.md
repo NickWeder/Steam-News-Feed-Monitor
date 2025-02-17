@@ -58,6 +58,9 @@ tkinter
 3. Use the interface to pause, resume, or stop individual feeds.
 4. View logs to check the application's activity.
 
+Example for Steam Game ID:
+https://store.steampowered.com/app/<ins>582010</ins>/Monster_Hunter_World/
+
 ## Contributing
 
 Feel free to submit issues or pull requests to enhance the project.
